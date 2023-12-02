@@ -1,2 +1,2 @@
 # simbolo_ai
-This is repository for simbolo_ai_class
+repository for simbolo_ai_class
